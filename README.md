@@ -1,6 +1,17 @@
 ### Hi there 👋
 🌱 I’m currently learning AI/ML, OpenAI API, and others.
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
 <!--
 **supiwmi/supiwmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
