@@ -31,6 +31,7 @@ Create python virtual environment with the same name of your github repo e.g. /U
 -   `which python`    
 
  you should see something like this..
+ 
  /Users/yourname/.python-web/bin/python
 </details>
 
