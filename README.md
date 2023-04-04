@@ -28,9 +28,7 @@ Create python virtual environment with the same name of your github repo e.g. /U
   
 -   `python3 -m venv ~/.pyproject-web`
 -   `source ~/.pyproject-web/bin/activate`
-  
-  
-* 2.  
+-   `which python`    
 
 </details>
 
