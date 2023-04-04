@@ -58,7 +58,16 @@ Next, Make Some Basic Scaffolding
  ```
  
 -   `touch requirements.txt`
--   `which python`    
+ Add the below content to the Makefile
+ ```
+ click
+ pylint
+ pytest
+ black
+ ```` 
+ 
+ 
+-   `touch hello.py && touch test_hello.py`    
 
  
 </details>
