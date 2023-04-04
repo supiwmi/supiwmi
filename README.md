@@ -78,6 +78,8 @@ all: install lint test format deploy
  pylint
  pytest
  black
+ ipython
+ boto3
  ```` 
  
  
