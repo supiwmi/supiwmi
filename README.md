@@ -20,6 +20,15 @@ My Programming languages
 
 </details>
 
+<details>
+<summary>How to set up Python Development environment on Mac</summary>
+* 1.
+* 2.  
+
+</details>
+
+
+
 <!--
 **supiwmi/supiwmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
