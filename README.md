@@ -33,8 +33,35 @@ Create python virtual environment with the same name of your github repo e.g. /U
  You should see something like this...
  
  /Users/yourname/.python-web/bin/python
-</details>
+ 
+Next, Make Some Basic Scaffolding
 
+-   `touch Makefile`
+ 
+ Add the below content to the Makefile
+ ```
+ install:
+     pip install --upgrade pip &&\
+         pip install -r requirements.txt
+ 
+ test:
+     python -m mytest --vv --cov=hello test_hello.py
+ 
+ lint: 
+     pylint --disable=R,C,E1120 hello.py
+ 
+ format:
+     black *.py
+ 
+ all: install lint test
+ 
+ ```
+ 
+-   `touch requirements.txt`
+-   `which python`    
+
+ 
+</details>
 
 
 <!--
