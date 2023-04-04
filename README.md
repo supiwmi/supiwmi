@@ -30,7 +30,7 @@ Create python virtual environment with the same name of your github repo e.g. /U
 -   `source ~/.pyproject-web/bin/activate`
 -   `which python`    
 
- You should see something like this..
+ You should see something like this...
  
  /Users/yourname/.python-web/bin/python
 </details>
