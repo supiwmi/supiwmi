@@ -22,7 +22,10 @@ My Programming languages
 
 <details>
 <summary>How to set up Python Development environment on Mac</summary>
-* 1.
+* python3 -m venv ~/.<working directory> e.g. /Users/<yourname>/pyproject-web
+  
+  `python3 -m venv ~/.pyproject-web`
+  
 * 2.  
 
 </details>
