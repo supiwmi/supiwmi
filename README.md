@@ -22,9 +22,12 @@ My Programming languages
 
 <details>
 <summary>How to set up Python Development environment on Mac</summary>
-### python3 -m venv ~/.<working directory> e.g. /Users/<yourname>/pyproject-web
+
+Create python virtual environment with the same name of your github repo e.g. /Users/<yourname>/pyproject-web
   
 -   `python3 -m venv ~/.pyproject-web`
+-   `source ~/.pyproject-web/bin/activate`
+  
   
 * 2.  
 
