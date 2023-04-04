@@ -1,14 +1,21 @@
 ### Hi there 👋
 🌱 I’m currently learning AI/ML, OpenAI API, and others.
 
+My Programming languages
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Javascript|
+|     3| SQL       |
+
 <details>
-<summary>My top languages</summary>
+<summary>My DevOps Tools languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+|     1| GitHub    |
+|     2| Copilot   |
+|     3| OpenAI    |
 
 </details>
 
