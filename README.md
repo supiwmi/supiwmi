@@ -9,7 +9,7 @@ My Programming languages
 |     3| SQL       |
 
 <details>
-<summary>My DevOps Tools languages</summary>
+<summary>My DevOps Tools</summary>
 
 | Rank | Languages |
 |-----:|-----------|
