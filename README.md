@@ -69,6 +69,9 @@ Next, Make Some Basic Scaffolding
  
 -   `touch hello.py && touch test_hello.py`    
 
+Run the below command to install requirement libraries with pip 
+-   `make install`
+ 
  
 </details>
 
